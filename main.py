@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QWidget, QApplication, QLabel, QPushButton, QLineEdi
 from PyQt5.QtCore import Qt
 from requests import RequestException
 
-#version 2 for the testing
+#version 3 for the testing as well tbh git hub is useful so far
 #main class
 class WeatherApp(QWidget):
     def __init__(self):
