@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QWidget, QApplication, QLabel, QPushButton, QLineEdi
 from PyQt5.QtCore import Qt
 from requests import RequestException
 
-#version 4, after the complete version 1, this will test local and remote repostery syncing
+#version 5, after the complete version 1, this will test local and remote repostery syncing
 
 #main class
 class WeatherApp(QWidget):
