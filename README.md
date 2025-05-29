@@ -1,4 +1,5 @@
 Version 1:
+Tutorial credit goes to BroCode: https://www.youtube.com/watch?v=ix9cRaBkVe0
 This is a python GUI app that shows weather in real time based on user's input
 uses PyQT5 library for the GUI 
 uses OpenWeatherMap as the API for weather information
